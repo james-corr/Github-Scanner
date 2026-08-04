@@ -1,0 +1,39 @@
+{
+  "velocity": {
+    "builder": [
+      "topic:llm stars:>300 pushed:>{30d}",
+      "topic:ai-agents stars:>300 pushed:>{30d}",
+      "topic:mcp stars:>300 pushed:>{30d}",
+      "topic:rag stars:>300 pushed:>{30d}",
+      "topic:llmops stars:>300 pushed:>{30d}",
+      "topic:agentic-ai stars:>300 pushed:>{30d}",
+      "topic:prompt-engineering stars:>300 pushed:>{30d}"
+    ],
+    "business": [
+      "topic:automation stars:>300 pushed:>{30d}",
+      "topic:workflow-automation stars:>300 pushed:>{30d}",
+      "topic:self-hosted stars:>300 pushed:>{30d}",
+      "topic:chatbot stars:>300 pushed:>{30d}",
+      "topic:ai-assistant stars:>300 pushed:>{30d}",
+      "topic:document-ai stars:>300 pushed:>{30d}"
+    ]
+  },
+  "new_repo_discovery": {
+    "new_this_week": [
+      "created:>{7d} stars:>50"
+    ],
+    "new_this_month": [
+      "created:>{30d} stars:>200"
+    ]
+  },
+  "ai_relevance_keywords": [
+    "ai", "llm", "gpt", "claude", "agent", "machine-learning", "deep-learning",
+    "generative", "copilot", "assistant", "automation", "dev-tool",
+    "developer-tool", "cli", "mcp"
+  ],
+  "noise_name_patterns": [
+    "awesome", "roadmap", "interview", "cheatsheet", "100-days", "learn-",
+    "-course", "tutorial", "books", "free-", "resources", "list-of"
+  ],
+  "breakout_stars_then_floor": 200
+}
