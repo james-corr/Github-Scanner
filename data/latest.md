@@ -1,203 +1,203 @@
-# GitHub Repo Scanner — 2026-10-26T18:57:39.576892+00:00
+# GitHub Repo Scanner — 2026-11-02T22:02:07.888054+00:00
 
 ## Signals
 - New this week: 25
 - New this month: 25
 - Movers tracked: 20
 - Breakouts tracked: 20
-- Biggest mover: morluto/rea (+55864.2/wk)
-- Biggest breakout: Derpyu520/qq-bridge (108% growth)
+- Biggest mover: morluto/rea (+31418.0/wk)
+- Biggest breakout: google/elephant-goldfish-model (548% growth)
 
 ## Movers
 ### Builder
-1. [morluto/rea](https://github.com/morluto/rea) — 390599★ (+55864.2/wk, 16.7% growth) | TypeScript | created 2026-04-14T00:51:32Z | last push 2026-10-26T18:55:39Z | topics: agent-skills, ai-agents, binary-analysis, claude-code, cli
+1. [morluto/rea](https://github.com/morluto/rea) — 422592★ (+31418.0/wk, 8.2% growth) | TypeScript | created 2026-04-14T00:51:32Z | last push 2026-11-02T19:32:05Z | topics: agent-skills, ai, android, claude-code, cli
    Reverse engineer anything with agents, from app behavior down to native binaries.
-2. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 176960★ (+9066.8/wk, 5.4% growth) | JavaScript | created 2026-06-12T00:52:37Z | last push 2026-10-18T01:55:14Z | topics: agent-skills, ai-agents, claude, claude-code, claude-code-plugin
-   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-3. [stablyai/orca](https://github.com/stablyai/orca) — 106855★ (+8851.8/wk, 9.0% growth) | TypeScript | created 2026-03-17T03:28:57Z | last push 2026-10-26T18:57:00Z | topics: ade, agent-ide, ai-agents, automation, bot
-   Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-4. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — 262472★ (+8101.0/wk, 3.2% growth) | TypeScript | created 2026-08-13T11:56:32Z | last push 2026-10-23T15:25:40Z | topics: ai-agents, cordis, dsh, dsh-plugin
+2. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — 54277★ (+10468.4/wk, 24.4% growth) | Python | created 2025-12-28T15:35:54Z | last push 2026-10-31T16:51:35Z | topics: ai-agents, ai-tutor, clawbot, cli-tool, deepresearch
+   DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+3. [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) — 10543★ (+8754.8/wk, 547.6% growth) | Python | created 2026-09-13T16:31:06Z | last push 2026-11-02T19:26:50Z | topics: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin
+   Open-source skills for designing and reviewing software with AI agents
+4. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 110650★ (+7159.0/wk, 7.0% growth) | TypeScript | created 2025-08-31T20:50:03Z | last push 2026-11-02T20:37:31Z | topics: ai, ai-agents, ai-memory, anthropic, artificial-intelligence
+   Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+5. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — 269527★ (+6928.2/wk, 2.7% growth) | TypeScript | created 2026-08-13T11:56:32Z | last push 2026-10-30T06:54:11Z | topics: ai-agents, cordis, dsh, dsh-plugin
    DeepSeek Harness: Everything is a Plugin.
-5. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — 135983★ (+6970.3/wk, 5.4% growth) | Python | created 2026-04-03T15:49:07Z | last push 2026-10-26T15:18:22Z | topics: ai-agents, antigravity, ast, claude-code, code-analysis
-   Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-6. [affaan-m/ECC](https://github.com/affaan-m/ECC) — 289623★ (+5712.6/wk, 2.0% growth) | JavaScript | created 2026-01-18T00:51:51Z | last push 2026-10-26T04:56:56Z | topics: ai-agents, anthropic, claude, claude-code, developer-tools
+6. [stablyai/orca](https://github.com/stablyai/orca) — 113533★ (+6558.0/wk, 6.2% growth) | TypeScript | created 2026-03-17T03:28:57Z | last push 2026-11-02T22:02:05Z | topics: ade, agent-ide, ai-agents, automation, bot
+   Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+7. [affaan-m/ECC](https://github.com/affaan-m/ECC) — 295587★ (+5856.8/wk, 2.1% growth) | JavaScript | created 2026-01-18T00:51:51Z | last push 2026-11-02T04:56:08Z | topics: ai-agents, anthropic, claude, claude-code, developer-tools
    The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — 72901★ (+5408.7/wk, 8.0% growth) | TypeScript | created 2026-03-10T01:51:06Z | last push 2026-10-26T18:57:26Z | topics: ai, ai-agents, animation, claude-code, ffmpeg
-   Write HTML. Render video. Built for agents.
-8. [tt-a1i/archify](https://github.com/tt-a1i/archify) — 89718★ (+3917.0/wk, 4.6% growth) | JavaScript | created 2026-04-15T05:27:37Z | last push 2026-10-26T05:59:06Z | topics: agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills
-   Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-9. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 103303★ (+3739.1/wk, 3.8% growth) | Python | created 2026-02-24T02:10:24Z | last push 2026-10-25T04:37:26Z | topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili
-   Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-10. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — 115782★ (+3700.1/wk, 3.3% growth) | Python | created 2024-12-28T03:31:08Z | last push 2026-10-16T21:38:46Z | topics: agent, finance, llm, multiagent, trading
-   TradingAgents: Multi-Agents LLM Financial Trading Framework
+8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 182833★ (+5767.5/wk, 3.3% growth) | JavaScript | created 2026-06-12T00:52:37Z | last push 2026-10-29T11:59:31Z | topics: agent-skills, ai-agents, claude, claude-code, claude-code-plugin
+   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+9. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — 33443★ (+5679.1/wk, 20.9% growth) | Shell | created 2026-02-12T05:21:38Z | last push 2026-10-19T02:43:42Z | topics: ai-agents, ai-assisted-development, anthropic, claude, claude-code
+   Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+10. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — 108645★ (+5634.9/wk, 5.6% growth) | JavaScript | created 2026-02-19T21:44:05Z | last push 2026-10-31T07:59:58Z | topics: agent-skills, ai-agents, anti-slop, claude-code, codex
+   Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 ### Business
-1. [stablyai/orca](https://github.com/stablyai/orca) — 106855★ (+8851.8/wk, 9.0% growth) | TypeScript | created 2026-03-17T03:28:57Z | last push 2026-10-26T18:57:00Z | topics: ade, agent-ide, ai-agents, automation, bot
+1. [stablyai/orca](https://github.com/stablyai/orca) — 113533★ (+6558.0/wk, 6.2% growth) | TypeScript | created 2026-03-17T03:28:57Z | last push 2026-11-02T22:02:05Z | topics: ade, agent-ide, ai-agents, automation, bot
    Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-2. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 103303★ (+3739.1/wk, 3.8% growth) | Python | created 2026-02-24T02:10:24Z | last push 2026-10-25T04:37:26Z | topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili
+2. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) — 7701★ (+5426.7/wk, 254.1% growth) | JavaScript | created 2026-04-29T12:19:08Z | last push 2026-11-02T04:09:53Z | topics: agent-collaboration, agent-harness, agent-orchestration, agent-team, agent-workflow
+   Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+3. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 108050★ (+4661.7/wk, 4.6% growth) | Python | created 2026-02-24T02:10:24Z | last push 2026-11-01T07:23:13Z | topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili
    Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-3. [makecindy/cindy](https://github.com/makecindy/cindy) — 6218★ (+3002.3/wk, 93.4% growth) | TypeScript | created 2026-07-22T17:49:34Z | last push 2026-10-26T17:17:47Z | topics: agent, ai-agent, ai-assistant, android, claude-code
+4. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 92721★ (+2808.6/wk, 3.2% growth) | Python | created 2024-10-13T20:29:53Z | last push 2026-11-02T20:16:23Z | topics: ai, ai-scraping, automation, crawler, crawling
+   🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+5. [makecindy/cindy](https://github.com/makecindy/cindy) — 9011★ (+2742.8/wk, 44.9% growth) | TypeScript | created 2026-07-22T17:49:34Z | last push 2026-11-02T20:57:47Z | topics: agent, ai-agent, ai-assistant, android, claude-code
    Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-4. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — 107592★ (+2975.3/wk, 2.8% growth) | TypeScript | created 2026-03-02T15:01:51Z | last push 2026-10-26T18:54:39Z | topics: acpx, agent-orchestration, agent-skills, agentic-ai, ai-agents
+6. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — 110331★ (+2689.8/wk, 2.5% growth) | TypeScript | created 2026-03-02T15:01:51Z | last push 2026-11-02T22:01:39Z | topics: acpx, agent-orchestration, agent-skills, agentic-ai, ai-agents
    The open-source app everyone uses to manage agents at work
-5. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 79480★ (+2431.4/wk, 3.2% growth) | TypeScript | created 2025-06-02T21:24:20Z | last push 2026-10-26T18:57:23Z | topics: agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents
-   🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-6. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) — 16175★ (+2329.4/wk, 16.8% growth) | JavaScript | created 2026-07-18T20:41:24Z | last push 2026-10-26T17:58:54Z | topics: apple-watch, bodyweight, docker, fitness, fitness-tracker
+7. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) — 18870★ (+2646.6/wk, 16.7% growth) | JavaScript | created 2026-07-18T20:41:24Z | last push 2026-11-02T17:21:27Z | topics: apple-watch, bodyweight, docker, fitness, fitness-tracker
    Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
-7. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 135408★ (+2294.4/wk, 1.7% growth) | Python | created 2024-03-11T02:57:34Z | last push 2026-10-26T14:01:14Z | topics: ai-video-generator, content-creation, ffmpeg, instagram-reels, llm
+8. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 137483★ (+2037.7/wk, 1.5% growth) | Python | created 2024-03-11T02:57:34Z | last push 2026-11-02T09:22:43Z | topics: ai-video-generator, content-creation, ffmpeg, instagram-reels, llm
    利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-8. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — 19733★ (+2007.5/wk, 11.3% growth) | JavaScript | created 2026-04-16T12:51:09Z | last push 2026-10-26T12:47:14Z | topics: agent-skills, ai-agent, automation, browser, browser-automation
-   The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-9. [coollabsio/coolify](https://github.com/coollabsio/coolify) — 64919★ (+1704.6/wk, 2.7% growth) | PHP | created 2021-01-25T20:54:01Z | last push 2026-10-26T18:49:12Z | topics: coolify, databases, deployment, docker, docker-compose
-   An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-10. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — 43800★ (+1544.6/wk, 3.7% growth) | Python | created 2022-12-08T13:27:46Z | last push 2026-10-26T16:16:29Z | topics: agent, ai, astrbot, chatbot, chatgpt
-   AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+9. [jub0t/Concat](https://github.com/jub0t/Concat) — 13806★ (+2030.8/wk, 17.6% growth) | Rust | created 2026-08-25T18:34:47Z | last push 2026-11-02T18:45:49Z | topics: ffmpeg, free-video-editor, model-context-protocol, non-linear-editor, offline-first
+   The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
+10. [peach-mitao/peach](https://github.com/peach-mitao/peach) — 14145★ (+1981.7/wk, 16.6% growth) | Python | created 2026-08-19T19:48:30Z | last push 2026-11-02T21:22:34Z | topics: local-first, media-library, media-manager, python, react
+   Peach: Local-first video metadata scraper and media manager.
 
 ## Breakouts
 ### Builder
-1. [3641397194-wq/gpt6-Astra](https://github.com/3641397194-wq/gpt6-Astra) — 1547★ (+378.9/wk, 32.5% growth) | JavaScript | created 2026-08-17T19:36:40Z | last push 2026-10-26T08:08:49Z | topics: claude, coldbrew, deepseek, gpt-5-6, grok
+1. [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) — 10543★ (+8754.8/wk, 547.6% growth) | Python | created 2026-09-13T16:31:06Z | last push 2026-11-02T19:26:50Z | topics: agent-skills, ai-agents, antigravity, claude-code, claude-code-plugin
+   Open-source skills for designing and reviewing software with AI agents
+2. [beenuar/AiSOC](https://github.com/beenuar/AiSOC) — 6660★ (+2658.4/wk, 68.5% growth) | Python | created 2026-05-02T03:30:19Z | last push 2026-11-02T21:39:15Z | topics: agentic-ai, ai-security, alert-triage, blue-team, cybersecurity
+   Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
+3. [respanai/respan-gateway](https://github.com/respanai/respan-gateway) — 490★ (+147.3/wk, 44.1% growth) | Rust | created 2026-09-25T03:58:19Z | last push 2026-11-01T09:49:17Z | topics: ai-agents, ai-gateway, ai-proxy, anthropic, claude-code
+   Open-source LLM gateway in Rust. One endpoint for OpenAI, Anthropic, Gemini and every other vendor. Any SDK, any model, any tool.
+4. [AhmadHassan-BTed/AutoSwarm-Shadow-Adapter](https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter) — 5193★ (+1477.0/wk, 40.8% growth) | Python | created 2026-07-25T09:28:12Z | last push 2026-10-20T11:56:32Z | topics: agentic-ai, agentic-workflow, ai-employee, ai-native, ai-workforce
+   Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime.
+5. [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) — 3473★ (+792.5/wk, 30.3% growth) | Batchfile | created 2026-10-19T22:20:47Z | last push 2026-10-26T03:00:18Z | topics: prompt-engineering, rea, reverse-enginnering
+   REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
+6. [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) — 906★ (+204.3/wk, 29.8% growth) | Python | created 2026-10-13T10:13:21Z | last push 2026-10-18T06:48:08Z | topics: ai-agents, cross-border-ecommerce, ecommerce, llm, mercado-livre
+   AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例
+7. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — 54277★ (+10468.4/wk, 24.4% growth) | Python | created 2025-12-28T15:35:54Z | last push 2026-10-31T16:51:35Z | topics: ai-agents, ai-tutor, clawbot, cli-tool, deepresearch
+   DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+8. [3641397194-wq/gpt6-Astra](https://github.com/3641397194-wq/gpt6-Astra) — 1876★ (+323.1/wk, 21.3% growth) | JavaScript | created 2026-08-17T19:36:40Z | last push 2026-10-31T07:30:52Z | topics: claude, coldbrew, deepseek, gpt-5-6, grok
    gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini破甲越狱 · 冷咖啡 BREAK//OPEN 工作台
-2. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) — 16175★ (+2329.4/wk, 16.8% growth) | JavaScript | created 2026-07-18T20:41:24Z | last push 2026-10-26T17:58:54Z | topics: apple-watch, bodyweight, docker, fitness, fitness-tracker
+9. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — 33443★ (+5679.1/wk, 20.9% growth) | Shell | created 2026-02-12T05:21:38Z | last push 2026-10-19T02:43:42Z | topics: ai-agents, ai-assisted-development, anthropic, claude, claude-code
+   Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+10. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) — 18870★ (+2646.6/wk, 16.7% growth) | JavaScript | created 2026-07-18T20:41:24Z | last push 2026-11-02T17:21:27Z | topics: apple-watch, bodyweight, docker, fitness, fitness-tracker
    Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
-3. [morluto/rea](https://github.com/morluto/rea) — 390599★ (+55864.2/wk, 16.7% growth) | TypeScript | created 2026-04-14T00:51:32Z | last push 2026-10-26T18:55:39Z | topics: agent-skills, ai-agents, binary-analysis, claude-code, cli
-   Reverse engineer anything with agents, from app behavior down to native binaries.
-4. [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) — 3974★ (+481.9/wk, 13.8% growth) | TypeScript | created 2026-03-12T20:40:06Z | last push 2026-10-13T23:42:37Z | topics: agent-native, agentic-ai, agentic-visualization, agents, ai-agents
-   Open-Source Generative UI Framework
-5. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) — 3474★ (+412.9/wk, 13.5% growth) | JavaScript | created 2026-05-26T13:26:00Z | last push 2026-10-26T15:55:41Z | topics: agent-plugin, agent-skills, agentic-ai, anthropic, chatgpt
-   Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-6. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) — 4382★ (+406.9/wk, 10.2% growth) | Python | created 2026-01-25T14:20:33Z | last push 2026-10-20T16:26:33Z | topics: agent, ai-fiction, ai-novel, ai-writing, chinese
-   🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
-7. [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) — 3384★ (+311.9/wk, 10.2% growth) | Python | created 2026-07-16T16:11:19Z | last push 2026-10-20T19:23:14Z | topics: agent-skills, ai-short-drama, ai-video, aigc, claude-code
-   开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video prompts, review. MIT.
-8. [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) — 1184★ (+100.0/wk, 9.2% growth) | Python | created 2026-10-11T15:38:03Z | last push 2026-10-26T18:09:41Z | topics: agent-evaluation, ai-agents, ai-testing, ci-cd, clickhouse
-   Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.
-9. [stablyai/orca](https://github.com/stablyai/orca) — 106855★ (+8851.8/wk, 9.0% growth) | TypeScript | created 2026-03-17T03:28:57Z | last push 2026-10-26T18:57:00Z | topics: ade, agent-ide, ai-agents, automation, bot
-   Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-10. [TencentCloud/Octop](https://github.com/TencentCloud/Octop) — 11126★ (+866.8/wk, 8.5% growth) | Python | created 2026-07-08T12:54:20Z | last push 2026-10-26T10:58:43Z | topics: agent, agentic-ai, ai, ai-agent, ai-agents
-   A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 ### Business
-1. [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge) — 2806★ (+1455.6/wk, 107.8% growth) | JavaScript | created 2026-08-25T07:46:42Z | last push 2026-10-22T12:07:48Z | topics: ai-agent, chatbot, deepseek-harness, dsh, onebot
-   Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.
-2. [makecindy/cindy](https://github.com/makecindy/cindy) — 6218★ (+3002.3/wk, 93.4% growth) | TypeScript | created 2026-07-22T17:49:34Z | last push 2026-10-26T17:17:47Z | topics: agent, ai-agent, ai-assistant, android, claude-code
+1. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) — 7701★ (+5426.7/wk, 254.1% growth) | JavaScript | created 2026-04-29T12:19:08Z | last push 2026-11-02T04:09:53Z | topics: agent-collaboration, agent-harness, agent-orchestration, agent-team, agent-workflow
+   Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+2. [leepokai/Codync](https://github.com/leepokai/Codync) — 1727★ (+800.4/wk, 89.4% growth) | Rust | created 2026-03-18T11:11:05Z | last push 2026-11-02T21:56:32Z | topics: acp, agent-client-protocol, ai-agents, ai-assistant, claude
+   Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.
+3. [pardnchiu/Agenvoy](https://github.com/pardnchiu/Agenvoy) — 922★ (+360.4/wk, 66.1% growth) | Go | created 2026-02-05T02:16:07Z | last push 2026-11-01T22:48:15Z | topics: agentic-ai, ai, ai-agent, ai-agents, ai-assistant
+   A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama
+4. [makecindy/cindy](https://github.com/makecindy/cindy) — 9011★ (+2742.8/wk, 44.9% growth) | TypeScript | created 2026-07-22T17:49:34Z | last push 2026-11-02T20:57:47Z | topics: agent, ai-agent, ai-assistant, android, claude-code
    Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-3. [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) — 698★ (+269.9/wk, 63.1% growth) | Python | created 2026-10-13T10:13:21Z | last push 2026-10-18T06:48:08Z | topics: ai-agents, cross-border-ecommerce, ecommerce, llm, mercado-livre
-   AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例
-4. [zj-unicom-ai/UniEmployee](https://github.com/zj-unicom-ai/UniEmployee) — 562★ (+199.0/wk, 54.8% growth) | Python | created 2026-08-14T23:56:01Z | last push 2026-10-26T06:54:11Z | topics: agent-orchestration, ai-agent, ai-employee, ai-platform, business-process
+5. [zj-unicom-ai/UniEmployee](https://github.com/zj-unicom-ai/UniEmployee) — 768★ (+202.3/wk, 36.6% growth) | Python | created 2026-08-14T23:56:01Z | last push 2026-10-29T01:34:16Z | topics: agent-orchestration, ai-agent, ai-employee, ai-platform, business-process
    面向企业的数字员工构建与运行平台：把专业员工的经验、流程与判断标准，固化为可随时上岗、可配置、可审批、可观测的 AI 数字员工。
-5. [himovo/movo](https://github.com/himovo/movo) — 389★ (+78.0/wk, 25.1% growth) | Python | created 2026-09-01T08:46:57Z | last push 2026-10-25T11:41:52Z | topics: agent, ai-agents, brower-automation, dsh-plugin, enterprise-agents
+6. [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) — 906★ (+204.3/wk, 29.8% growth) | Python | created 2026-10-13T10:13:21Z | last push 2026-10-18T06:48:08Z | topics: ai-agents, cross-border-ecommerce, ecommerce, llm, mercado-livre
+   AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例
+7. [himovo/movo](https://github.com/himovo/movo) — 503★ (+112.0/wk, 29.3% growth) | Python | created 2026-09-01T08:46:57Z | last push 2026-11-02T14:22:04Z | topics: agent, ai-agents, brower-automation, dsh-plugin, enterprise-agents
    Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
-6. [smartdoca/doca](https://github.com/smartdoca/doca) — 426★ (+82.0/wk, 23.8% growth) | TypeScript | created 2026-09-27T15:55:56Z | last push 2026-10-26T11:39:08Z | topics: ai-assistant, canvas, collaborative-editing, docker, document-management
-   Doca｜开源文档管理与知识库，支持多人协同编辑、在线文档、Markdown、表格、幻灯片、画布和 AI 助手。Self-hosted document management, knowledge base & real-time collaborative editing for individuals and small teams.
-7. [Sidiora-Labs/hyperfide](https://github.com/Sidiora-Labs/hyperfide) — 534★ (+101.0/wk, 23.3% growth) | TypeScript | created 2026-08-13T07:38:47Z | last push 2026-10-26T16:33:04Z | topics: agent, agent-memory, agent-orchestration, agentic-workflow, ai
+8. [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) — 420★ (+80.5/wk, 24.3% growth) | Swift | created 2026-08-12T19:57:04Z | last push 2026-11-02T20:48:01Z | topics: ai-agent, ai-assistant, android, byok, ios
+   iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, CAD/3D, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。
+9. [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge) — 3467★ (+649.1/wk, 23.6% growth) | JavaScript | created 2026-08-25T07:46:42Z | last push 2026-11-01T06:55:36Z | topics: ai-agent, chatbot, deepseek-harness, dsh, onebot
+   Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.
+10. [Sidiora-Labs/hyperfide](https://github.com/Sidiora-Labs/hyperfide) — 639★ (+103.1/wk, 19.7% growth) | TypeScript | created 2026-08-13T07:38:47Z | last push 2026-11-02T03:54:13Z | topics: agent, agent-memory, agent-orchestration, agentic-workflow, ai
    The ai agent workflow tool that scales from small, simple projects to large, complex codebases.
-8. [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) — 2611★ (+427.9/wk, 19.6% growth) | JavaScript | created 2026-08-14T20:40:06Z | last push 2026-10-25T17:32:38Z | topics: ai-agents, chatbot, cordis, deepseek, deepseek-harness
-   通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
-9. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) — 16175★ (+2329.4/wk, 16.8% growth) | JavaScript | created 2026-07-18T20:41:24Z | last push 2026-10-26T17:58:54Z | topics: apple-watch, bodyweight, docker, fitness, fitness-tracker
-   Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
-10. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — 19733★ (+2007.5/wk, 11.3% growth) | JavaScript | created 2026-04-16T12:51:09Z | last push 2026-10-26T12:47:14Z | topics: agent-skills, ai-agent, automation, browser, browser-automation
-   The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 ## New this week
-1. [xevrion/hatchzip](https://github.com/xevrion/hatchzip) — 2036★ | Rust | created 2026-10-21T17:29:28Z | last push 2026-10-25T17:45:27Z | topics: 7z, 7zip, archive, archive-extractor, cli
-   HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
-2. [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) — 1994★ | Python | created 2026-10-20T14:17:54Z | last push 2026-10-20T14:18:00Z | topics: backtesting, claude, claude-skills, day-trading, stock-market
-   11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
-3. [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) — 1810★ | Python | created 2026-10-24T05:35:47Z | last push 2026-10-25T16:46:03Z | topics: adb, ai-agent, android, coloros, debloat
-   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-4. [t3dotgg/tstack](https://github.com/t3dotgg/tstack) — 1330★ | Python | created 2026-10-24T05:00:20Z | last push 2026-10-25T02:25:51Z | topics: 
-   The agent skills I use every day. Works with Claude Code and Codex.
-5. [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) — 1178★ | Python | created 2026-10-23T03:01:11Z | last push 2026-10-26T13:45:53Z | topics: agent-skills, claude-code, claude-plugin, claude-skills, clippy
-   Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
-6. [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) — 1005★ | Python | created 2026-10-20T14:03:04Z | last push 2026-10-24T08:34:16Z | topics: eagle, gpu, llm-inference, sglang, speculative-decoding
-   Official Inference Code of EAGLE-4
-7. [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) — 720★ | Kotlin | created 2026-10-21T12:42:09Z | last push 2026-10-26T12:01:11Z | topics: adb, android-tv, debloat, fire-tv, google-tv
-   A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.
-8. [dominikmartn/harp](https://github.com/dominikmartn/harp) — 646★ | Rust | created 2026-10-20T10:39:43Z | last push 2026-10-26T18:29:20Z | topics: 
-   Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.
-9. [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) — 603★ | TypeScript | created 2026-10-26T04:34:09Z | last push 2026-10-26T11:52:14Z | topics: 
-   AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
-10. [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) — 503★ | Swift | created 2026-10-22T03:33:03Z | last push 2026-10-22T06:38:46Z | topics: 
-   Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.
-11. [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) — 499★ | n/a | created 2026-10-21T14:44:06Z | last push 2026-10-21T14:49:16Z | topics: ai, ai-safety, jailbreak, jailbreaking, privacy
-   AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.
-12. [lesnolie/Tigris](https://github.com/lesnolie/Tigris) — 492★ | Kotlin | created 2026-10-20T10:12:05Z | last push 2026-10-26T14:44:48Z | topics: 
-   Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.
-13. [wangrongding/tv-fresh](https://github.com/wangrongding/tv-fresh) — 492★ | Shell | created 2026-10-24T16:58:15Z | last push 2026-10-25T17:33:37Z | topics: 
-   tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本
-14. [jss8649/quiet-tizen](https://github.com/jss8649/quiet-tizen) — 400★ | Python | created 2026-10-20T17:23:41Z | last push 2026-10-20T17:24:38Z | topics: codex, debloat, launcher, samsung-tv, smart-tv
-   Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.
-15. [actionow-ai/vvv](https://github.com/actionow-ai/vvv) — 392★ | Python | created 2026-10-22T07:29:54Z | last push 2026-10-25T04:32:13Z | topics: 
-   Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.
-16. [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) — 390★ | Python | created 2026-10-24T13:51:36Z | last push 2026-10-24T16:10:37Z | topics: abliterated, abliterated-models, ai-api, ai-jailbreaks, api-gateway
-   GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.
-17. [routerhubSI/uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api) — 366★ | n/a | created 2026-10-24T16:55:17Z | last push 2026-10-24T17:09:17Z | topics: abliterated-models, ai-api, ai-gateway, anthropic-compatible, claude-api
-   Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.
-18. [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) — 356★ | Python | created 2026-10-24T22:34:43Z | last push 2026-10-26T18:50:23Z | topics: ai, attack-surface-management, bbot, cybersecurity, mcp
-   AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.
-19. [JMS1717/ming-voice](https://github.com/JMS1717/ming-voice) — 319★ | Python | created 2026-10-21T01:08:35Z | last push 2026-10-26T01:31:27Z | topics: amd, local-llm, radeon, realtime, rocm
-   Low-latency local speech-to-speech voice assistant with Ming-3.0-audio-tiny on AMD and Nvidia GPUs. Easy setup on Windows and Linux
-20. [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) — 304★ | TypeScript | created 2026-10-26T03:12:45Z | last push 2026-10-26T15:07:32Z | topics: ai-analytics, geo, mit, postgresql, self-hosted
-   Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
-21. [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) — 286★ | Python | created 2026-10-22T10:23:29Z | last push 2026-10-26T05:23:19Z | topics: agent-skills, ai, business-plan, claude-code, codex
-   创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
-22. [lovisdotio/motion2code](https://github.com/lovisdotio/motion2code) — 277★ | HTML | created 2026-10-20T04:18:10Z | last push 2026-10-20T04:21:52Z | topics: agent-skills, animation, claude-code, gsap, motion-design
-   Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source
-23. [qianshuixia/shrimpreel](https://github.com/qianshuixia/shrimpreel) — 276★ | TypeScript | created 2026-10-20T18:08:00Z | last push 2026-10-26T16:16:03Z | topics: ai-video, cloudflare-d1, cloudflare-r2, cloudflare-workers, fal-ai
-   Open-source template for "one photo → AI video that follows a viral template" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.
-24. [helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel) — 269★ | HTML | created 2026-10-21T07:58:58Z | last push 2026-10-21T07:59:07Z | topics: ai-agent, carousel, chinese, claude-code, claude-skill
-   把文章、案例或笔记排成 3:4 小红书图文 | 1080×1440 | 20 个母版 | 浅色 / 深色 | Claude Code Skill
-25. [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) — 266★ | n/a | created 2026-10-23T07:51:02Z | last push 2026-10-23T07:51:07Z | topics: claude-code, claude-skills, davinci-resolve, remotion, video-editing
-   Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use).
+1. [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) — 12916★ | TypeScript | created 2026-10-31T09:32:46Z | last push 2026-10-31T12:05:51Z | topics: 
+   Towards a More Autonomous Agent System
+2. [heydamir/unslop](https://github.com/heydamir/unslop) — 6141★ | JavaScript | created 2026-10-29T15:41:21Z | last push 2026-11-01T16:46:10Z | topics: 
+   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+3. [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) — 5478★ | TypeScript | created 2026-10-27T12:24:37Z | last push 2026-11-02T13:28:31Z | topics: ai-art, chinese, cloudflare-pages, gallery, i18n
+   中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+4. [wangzan101/Mika](https://github.com/wangzan101/Mika) — 5232★ | Kotlin | created 2026-10-29T14:34:07Z | last push 2026-11-02T19:08:44Z | topics: accessibility, ai-agent, android, automation, jetpack-compose
+   An on-device AI agent for Android that operates apps and the web to get things done for you.
+5. [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) — 3445★ | JavaScript | created 2026-10-30T06:43:25Z | last push 2026-10-31T08:44:14Z | topics: agent-skills, animation, canvas, claude-code-plugin, gamedev
+   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+6. [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) — 2209★ | JavaScript | created 2026-10-27T12:03:01Z | last push 2026-11-02T20:06:48Z | topics: ai-coding, architecture-diagram, claude, claude-code, claude-code-plugin
+   See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
+7. [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 2041★ | Go | created 2026-10-29T06:08:00Z | last push 2026-10-31T17:01:39Z | topics: 
+   1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+8. [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) — 1360★ | Lua | created 2026-10-30T07:49:05Z | last push 2026-11-01T21:43:13Z | topics: generative-art, latex, latex-package, lua, lualatex
+   Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
+9. [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) — 1327★ | TypeScript | created 2026-10-27T08:51:18Z | last push 2026-11-02T18:12:04Z | topics: ai-agent, ai-assistant, chatbot, claude, computer-use
+   🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.
+10. [Verlintas/NOIR](https://github.com/Verlintas/NOIR) — 1236★ | Kotlin | created 2026-10-31T21:34:39Z | last push 2026-11-02T15:09:56Z | topics: adb, android, android-privacy, android-security, android-tools
+   手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
+11. [elvarofficial/teardown](https://github.com/elvarofficial/teardown) — 1211★ | JavaScript | created 2026-10-30T09:29:01Z | last push 2026-10-31T14:01:06Z | topics: 
+   A Claude Code skill that turns any machine into a 3D simulator you can take apart
+12. [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) — 1113★ | TypeScript | created 2026-11-01T05:35:12Z | last push 2026-11-02T09:50:24Z | topics: agent-skills, architecture-diagram, claude-code, claude-skills, codex
+   Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
+13. [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) — 1054★ | JavaScript | created 2026-10-28T07:00:53Z | last push 2026-11-01T09:05:36Z | topics: 3d-modeling, ai-art, art-reference, gallery, photography
+   RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。
+14. [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) — 933★ | JavaScript | created 2026-10-29T06:20:59Z | last push 2026-10-31T12:49:35Z | topics: agent-skills, animation, claude-code, claude-skills, frontend
+   A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.
+15. [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) — 828★ | JavaScript | created 2026-10-28T08:58:27Z | last push 2026-10-28T09:21:00Z | topics: 
+   An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X
+16. [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) — 749★ | Kotlin | created 2026-10-27T19:26:12Z | last push 2026-11-02T18:08:07Z | topics: ai-agent, android, deepseek, deepseek-harness, llm
+   免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku
+17. [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) — 667★ | JavaScript | created 2026-10-29T15:28:16Z | last push 2026-11-02T16:19:53Z | topics: ai, gpt
+   AI 作图素材库 · 中文版（脸 / 姿势 / 服装）
+18. [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) — 598★ | TypeScript | created 2026-11-01T05:50:38Z | last push 2026-11-01T05:57:14Z | topics: 
+   Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion
+19. [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — 596★ | Python | created 2026-10-30T15:12:35Z | last push 2026-11-01T15:48:49Z | topics: ai-agents, autonomous-agents, claude-code, ctf, llm
+   Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.
+20. [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) — 584★ | Python | created 2026-11-02T00:40:47Z | last push 2026-11-02T02:05:21Z | topics: cli, inventory, price-check, python, report-card
+   Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.
+21. [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) — 572★ | n/a | created 2026-10-30T05:19:33Z | last push 2026-11-02T08:30:40Z | topics: ai-generated, biodiversity, birding, birds, birdwatching
+   花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data
+22. [Balanov/uncut](https://github.com/Balanov/uncut) — 570★ | Go | created 2026-11-01T17:19:30Z | last push 2026-11-02T20:58:19Z | topics: agent-harness, cli, coding-agent, go, headless
+   The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.
+23. [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) — 538★ | C++ | created 2026-10-28T11:31:41Z | last push 2026-11-02T14:40:51Z | topics: anti-bot, automation, firefox, headless-browser, javascript
+   Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.
+24. [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) — 512★ | Python | created 2026-10-28T02:17:41Z | last push 2026-10-29T14:24:29Z | topics: agent-skills, ai-coding, claude-skills, coding-agent, harness-engineering
+   The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
+25. [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) — 501★ | n/a | created 2026-11-02T10:14:34Z | last push 2026-11-02T10:14:39Z | topics: automation, desktop, developer-tools, open-source, python
+   Roblox Game Copier 2026: Pre-activated desktop edition with all features enabled for easy installation and use.
 
 ## New this month
-1. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — 38680★ | Python | created 2026-10-17T08:12:35Z | last push 2026-10-26T17:44:50Z | topics: adb, adblock, android-tv, android-tv-launcher, apple-tv
+1. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — 50337★ | Python | created 2026-10-17T08:12:35Z | last push 2026-11-02T16:11:31Z | topics: adb, adblock, android-tv, android-tv-launcher, apple-tv
    Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-2. [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) — 22967★ | Python | created 2026-10-16T07:47:23Z | last push 2026-10-26T05:30:52Z | topics: 
+2. [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) — 25023★ | Python | created 2026-10-16T07:47:23Z | last push 2026-10-26T05:30:52Z | topics: 
    DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-3. [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) — 20996★ | JavaScript | created 2026-10-08T10:12:49Z | last push 2026-10-18T20:20:24Z | topics: agent-skill, open-source, svg, vizualization
+3. [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) — 24090★ | JavaScript | created 2026-10-08T10:12:49Z | last push 2026-10-18T20:20:24Z | topics: agent-skill, open-source, svg, vizualization
    An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-4. [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) — 10754★ | Rust | created 2026-10-07T18:57:48Z | last push 2026-10-26T18:46:42Z | topics: 3d-modeling, brep, cad, egui, mcp
+4. [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) — 14583★ | C | created 2026-10-18T01:28:31Z | last push 2026-10-29T02:30:54Z | topics: 
+   Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
+5. [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) — 13156★ | Rust | created 2026-10-07T18:57:48Z | last push 2026-11-02T21:58:18Z | topics: 3d-modeling, brep, cad, egui, mcp
    SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
-5. [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) — 9010★ | Python | created 2026-09-30T05:00:35Z | last push 2026-10-26T12:56:00Z | topics: age-of-empires, claude-code, claude-code-plugin, fal, game-assets
-   Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
-6. [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 8674★ | TypeScript | created 2026-09-28T23:40:05Z | last push 2026-10-24T12:10:05Z | topics: ai, chinese, content-curation, daily-digest, docker-compose
-   一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-7. [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) — 6545★ | Swift | created 2026-09-27T21:54:12Z | last push 2026-10-23T17:25:38Z | topics: ai-agents, anthropic, antigravity, claude, claude-code
-   A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.
-8. [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) — 6037★ | TypeScript | created 2026-09-29T17:13:58Z | last push 2026-10-26T15:39:40Z | topics: 
-   Your always-on AI coworkers that move between text, calls, and Slack.
-9. [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) — 5734★ | Python | created 2026-10-03T12:07:49Z | last push 2026-10-03T12:07:53Z | topics: agent, agent-skills, app-clone, claude, claude-code
-   Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
-10. [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) — 5496★ | TypeScript | created 2026-09-29T16:36:26Z | last push 2026-10-21T17:33:36Z | topics: cli, javascript, mcp, react, shaders
-   WebGPU components for React, Vue, Svelte, Solid, JS & Framer
-11. [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) — 5290★ | Swift | created 2026-09-29T11:02:39Z | last push 2026-10-26T08:21:55Z | topics: ai-blocker, anti-ai, apple-intelligence, cli, debloat
-   Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
-12. [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 4495★ | JavaScript | created 2026-10-02T09:57:40Z | last push 2026-10-26T08:49:51Z | topics: agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill
-   Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-13. [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) — 4115★ | JavaScript | created 2026-10-07T15:37:36Z | last push 2026-10-26T17:05:40Z | topics: bot, deepseek-harness, dsh-plugin, multi-agent
+6. [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) — 12916★ | TypeScript | created 2026-10-31T09:32:46Z | last push 2026-10-31T12:05:51Z | topics: 
+   Towards a More Autonomous Agent System
+7. [heydamir/unslop](https://github.com/heydamir/unslop) — 6141★ | JavaScript | created 2026-10-29T15:41:21Z | last push 2026-11-01T16:46:10Z | topics: 
+   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+8. [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) — 5891★ | Python | created 2026-10-24T05:35:47Z | last push 2026-11-02T17:23:41Z | topics: adb, ai-agent, android, coloros, debloat
+   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+9. [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) — 5795★ | Dart | created 2026-10-25T08:09:52Z | last push 2026-11-02T14:01:03Z | topics: ai-agent, android, android-app, coding-agent, deepseek
+   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+10. [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) — 5478★ | TypeScript | created 2026-10-27T12:24:37Z | last push 2026-11-02T13:28:31Z | topics: ai-art, chinese, cloudflare-pages, gallery, i18n
+   中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+11. [wangzan101/Mika](https://github.com/wangzan101/Mika) — 5232★ | Kotlin | created 2026-10-29T14:34:07Z | last push 2026-11-02T19:08:44Z | topics: accessibility, ai-agent, android, automation, jetpack-compose
+   An on-device AI agent for Android that operates apps and the web to get things done for you.
+12. [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) — 5096★ | JavaScript | created 2026-10-07T15:37:36Z | last push 2026-11-02T10:48:43Z | topics: bot, deepseek-harness, dsh-plugin, multi-agent
    A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
-14. [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) — 3977★ | Python | created 2026-09-29T01:29:57Z | last push 2026-10-09T09:37:21Z | topics: 
-   A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
-15. [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 3938★ | C | created 2026-10-11T19:10:25Z | last push 2026-10-22T05:26:44Z | topics: ai-agent, airplay, automation, computer-use, esp32
-   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
-16. [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) — 3746★ | Python | created 2026-10-13T03:09:42Z | last push 2026-10-26T16:43:07Z | topics: agent-skill, comfyui, image-generation, openclaw, pose-control
-   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
-17. [Folkbench/folkbench](https://github.com/Folkbench/folkbench) — 3737★ | Rust | created 2026-10-02T09:50:45Z | last push 2026-10-26T17:32:01Z | topics: ai, api-relay, api-relay-pricing, benchmark, benchmarks
-   AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex
-18. [openfilm/openfilm](https://github.com/openfilm/openfilm) — 3007★ | TypeScript | created 2026-10-04T09:29:07Z | last push 2026-10-26T18:39:40Z | topics: ai-video, claude-code, codex, coding-agents, html
+13. [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) — 4942★ | TypeScript | created 2026-10-16T19:35:33Z | last push 2026-10-31T09:30:58Z | topics: 
+   Agent harness for learning difficult things.
+14. [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) — 4912★ | TypeScript | created 2026-10-21T12:23:14Z | last push 2026-11-02T18:09:18Z | topics: code-editor, cross-platform, dap, database-client, debugger
+   The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.
+15. [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) — 4562★ | Python | created 2026-10-20T14:17:54Z | last push 2026-10-20T14:18:00Z | topics: backtesting, claude, claude-skills, day-trading, stock-market
+   11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
+16. [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) — 4445★ | Python | created 2026-10-13T04:16:50Z | last push 2026-11-02T21:48:42Z | topics: agentic-ai, agentic-coding, ai-coding, ai-coding-assistant, anthropic
+   Experience-Driven Black-Box Cost Control for Coding Agents
+17. [openfilm/openfilm](https://github.com/openfilm/openfilm) — 4269★ | TypeScript | created 2026-10-04T09:29:07Z | last push 2026-11-02T15:03:31Z | topics: ai-video, claude-code, codex, coding-agents, html
    The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.
-19. [aicodeking/leanrea](https://github.com/aicodeking/leanrea) — 2907★ | Python | created 2026-10-17T02:53:24Z | last push 2026-10-19T11:34:21Z | topics: 
-   One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
-20. [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) — 2893★ | Python | created 2026-10-15T06:52:46Z | last push 2026-10-22T23:12:59Z | topics: ai-agents, audio, claude-code, mcp, sound-design
-   Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
-21. [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) — 2813★ | JavaScript | created 2026-10-16T07:44:27Z | last push 2026-10-25T10:44:52Z | topics: agent-tools, backup, deepseek, deepseek-harness, dsh
+18. [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 4236★ | C | created 2026-10-11T19:10:25Z | last push 2026-10-28T07:40:06Z | topics: ai-agent, airplay, automation, computer-use, esp32
+   Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+19. [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) — 4184★ | JavaScript | created 2026-10-16T07:44:27Z | last push 2026-11-01T15:38:41Z | topics: agent-tools, backup, deepseek, deepseek-harness, dsh
    dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。
-22. [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) — 2666★ | Batchfile | created 2026-10-19T22:20:47Z | last push 2026-10-26T03:00:18Z | topics: prompt-engineering, rea, reverse-enginnering
+20. [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) — 4085★ | Python | created 2026-10-13T03:09:42Z | last push 2026-10-26T16:43:07Z | topics: agent-skill, comfyui, image-generation, openclaw, pose-control
+   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
+21. [aicodeking/leanrea](https://github.com/aicodeking/leanrea) — 3923★ | Python | created 2026-10-17T02:53:24Z | last push 2026-10-19T11:34:21Z | topics: 
+   One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
+22. [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) — 3546★ | Python | created 2026-10-15T06:52:46Z | last push 2026-10-22T23:12:59Z | topics: ai-agents, audio, claude-code, mcp, sound-design
+   Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+23. [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) — 3473★ | Batchfile | created 2026-10-19T22:20:47Z | last push 2026-10-26T03:00:18Z | topics: prompt-engineering, rea, reverse-enginnering
    REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
-23. [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) — 2572★ | Python | created 2026-09-30T11:49:32Z | last push 2026-10-26T07:38:06Z | topics: agent-skills, ai-writing, antigravity, claude-code, codex
-   AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
-24. [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge) — 2448★ | JavaScript | created 2026-10-13T05:14:47Z | last push 2026-10-13T05:50:46Z | topics: archive, deepseek, deepseek-harness, dsh-plugin, dsh-plugins
+24. [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) — 3445★ | JavaScript | created 2026-10-30T06:43:25Z | last push 2026-10-31T08:44:14Z | topics: agent-skills, animation, canvas, claude-code-plugin, gamedev
+   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+25. [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge) — 2969★ | JavaScript | created 2026-10-13T05:14:47Z | last push 2026-10-13T05:50:46Z | topics: archive, deepseek, deepseek-harness, dsh-plugin, dsh-plugins
    DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。
-25. [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) — 2368★ | Python | created 2026-09-30T03:55:35Z | last push 2026-10-26T16:57:23Z | topics: agent-skills, ai-design, claude-code, claude-skills, codex
-   UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
